@@ -16,6 +16,6 @@
 # You should have received a copy of the GNU Affero General Public License
 # along with this program. If not, see <http://www.gnu.org/licenses/>.
 
-
-TOKEN = 'TOKEN'
+#unotestbot
+TOKEN = '316135946:AAEmOtzbYaticEkUvFXnlPw6ex6WiynH7ls'
 BOTAN_TOKEN = ''  # Optional: Add a botan.io token if you want bot statistics
